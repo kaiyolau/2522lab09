@@ -1,0 +1,133 @@
+What is the capital of Canada?|Ottawa
+What is 2 + 2?|4
+What is the color of the sky on a clear day?|Blue
+Name a programming language starting with J?|Java
+What is the largest planet in our solar system?|Jupiter
+What is the chemical symbol for water?|H2O
+Who wrote 'Hamlet'?|Shakespeare
+What is 5 x 6?|30
+What is the freezing point of water in Celsius?|0
+What is the largest ocean on Earth?|Pacific
+What is the capital of France?|Paris
+What is 3 + 5?|8
+What is the color of grass?|Green
+Name a programming language starting with P?|Python
+What is the smallest planet in our solar system?|Mercury
+What is the chemical symbol for gold?|Au
+Who painted the Mona Lisa?|Leonardo da Vinci
+What is 8 x 7?|56
+What is the boiling point of water in Celsius?|100
+What is the longest river on Earth?|Nile
+What is the currency of Japan?|Yen
+What is the largest desert in the world?|Sahara
+What is 100 divided by 4?|25
+What is the tallest mountain on Earth?|Mount Everest
+What is the square root of 144?|12
+Who discovered gravity?|Isaac Newton
+What is the national flower of the United States?|Rose
+What is the atomic number of oxygen?|8
+What is 15 x 4?|60
+What is the largest island in the world?|Greenland
+What is the capital of Japan?|Tokyo
+What is 10 + 15?|25
+What is the color of an apple?|Red
+Name a programming language starting with C?|C++
+What is the nearest star to Earth?|The Sun
+What is the chemical symbol for silver?|Ag
+Who wrote '1984'?|George Orwell
+What is 12 x 12?|144
+What is the freezing point of water in Fahrenheit?|32
+What is the longest mountain range on Earth?|The Andes
+What is the currency of the United Kingdom?|Pound Sterling
+What is the deepest ocean?|Pacific
+What is the capital of Australia?|Canberra
+What is 6 x 9?|54
+What is the square root of 64?|8
+Who invented the telephone?|Alexander Graham Bell
+What is the national bird of the United States?|Bald Eagle
+What is the atomic number of carbon?|6
+What is 35 + 20?|55
+What is the largest country in the world?|Russia
+What is the capital of Germany?|Berlin
+What is 25 x 3?|75
+What is the color of an emerald?|Green
+Name a programming language starting with R?|Ruby
+What is the third planet from the sun?|Earth
+What is the chemical symbol for iron?|Fe
+Who painted the Sistine Chapel ceiling?|Michelangelo
+What is 7 x 8?|56
+What is the boiling point of water in Fahrenheit?|212
+What is the largest city in the world by population?|Tokyo
+What is the currency of Canada?|Canadian Dollar
+What is the tallest building in the world?|Burj Khalifa
+What is 100 divided by 5?|20
+What is the largest country by population?|China
+What is the smallest continent in the world?|Australia
+What is the chemical symbol for potassium?|K
+Who invented the airplane?|The Wright Brothers
+What is the national animal of Canada?|Beaver
+What is the atomic number of helium?|2
+What is 4 x 8?|32
+What is the capital of Italy?|Rome
+What is 18 + 7?|25
+What is the color of the sun?|Yellow
+Name a programming language starting with A?|Ada
+What is the hottest planet in our solar system?|Venus
+What is the chemical symbol for sodium?|Na
+Who wrote 'Pride and Prejudice'?|Jane Austen
+What is 9 x 9?|81
+What is the freezing point of mercury?|-38.83°C
+What is the largest waterfall in the world?|Angel Falls
+What is the capital of Brazil?|Brasília
+What is 14 x 6?|84
+What is the color of a banana?|Yellow
+Name a programming language starting with M?|Matlab
+What is the second planet from the sun?|Venus
+What is the chemical symbol for nitrogen?|N
+Who painted 'Starry Night'?|Vincent van Gogh
+What is 11 x 11?|121
+What is the boiling point of nitrogen?|-195.79°C
+What is the second largest ocean on Earth?|Atlantic
+What is the capital of Spain?|Madrid
+What is 17 + 3?|20
+What is the color of a tomato?|Red
+Name a programming language starting with L?|Lua
+What is the fourth planet from the sun?|Mars
+What is the chemical symbol for carbon?|C
+Who wrote 'The Great Gatsby'?|F. Scott Fitzgerald
+What is 10 x 10?|100
+What is the highest waterfall in North America?|Yosemite Falls
+What is the capital of Mexico?|Mexico City
+What is 20 x 5?|100
+What is the color of a pumpkin?|Orange
+Name a programming language starting with D?|Dart
+What is the fifth planet from the sun?|Jupiter
+What is the chemical symbol for mercury?|Hg
+Who invented the light bulb?|Thomas Edison
+What is 16 x 6?|96
+What is the capital of South Korea?|Seoul
+What is the largest moon of Saturn?|Titan
+What is the currency of China?|Yuan
+What is 7 x 7?|49
+What is the national animal of India?|Tiger
+What is the chemical symbol for calcium?|Ca
+Who wrote 'Moby Dick'?|Herman Melville
+What is 8 x 4?|32
+What is the capital of Russia?|Moscow
+What is 5 x 5?|25
+What is the color of snow?|White
+Name a programming language starting with E?|Erlang
+What is the sixth planet from the sun?|Saturn
+What is the chemical symbol for zinc?|Zn
+Who discovered penicillin?|Alexander Fleming
+What is 12 x 10?|120
+What is the capital of Egypt?|Cairo
+What is the largest river in South America?|Amazon
+What is the square root of 100?|10
+What is the longest bridge in the world?|Danyang–Kunshan Grand Bridge
+What is the national sport of Canada?|Ice Hockey
+What is the chemical symbol for copper?|Cu
+Who invented the first computer?|Charles Babbage
+What is 18 x 5?|90
+What is the capital of Egypt?|Cairo
+What is the largest lake in Africa?|Lake Victoria
